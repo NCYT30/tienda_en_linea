@@ -1,6 +1,6 @@
 # Tienda en línea
 
-Este proyecto es una tienda en línea desarrollada con Django, que permite a los usuarios comprar productos, dejar reseñas, gestionar direcciones y explorar diferentes categorías de productos.
+Este proyecto es una tienda en línea desarrollada con Fastapi, que permite a los usuarios comprar productos, dejar reseñas, gestionar direcciones y explorar diferentes categorías de productos.
 
 ## Características
 
